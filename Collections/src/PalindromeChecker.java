@@ -1,7 +1,6 @@
 import java.util.Deque;
 import java.util.LinkedList;
 public class PalindromeChecker {
-    private Boolean checkResult;
     public Boolean checkPalindrome(Deque<Character> check)
     {
         Deque<Character> checkClone = new LinkedList<Character>(); //New LinkedList Deque to copy input to
