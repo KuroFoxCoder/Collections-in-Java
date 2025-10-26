@@ -1,2 +1,6 @@
-# Collections-in-Java
-An example of how to use Deque to detect if user inputs a palindrome
+# Video
+Here
+# Thought Process
+Here
+# Challenges
+I needed to re-learn what abstract classes were for this assignment. I first tried just creating a Deque List, but when that failed, I looked through the lesson and saw in an example that a Deque could be assigned to a LinkedList. That was when I realized that Deque was an abstract class, or a class that exists to expand multiple classes' functionality with some universal methods, such as "Electric" or "Gas" abstract classes being assigned to any number of Vehicle classes like "Car", "Motorcycle", or even "Boat".
